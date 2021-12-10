@@ -1,0 +1,19 @@
+{
+    "name": "sn1",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "ENeeapXiNBk2RjeuYUuwCbyQxuYCGhcwpUpops2yL9AS",
+          "share": 100
+        }
+      ]
+    }
+  }
